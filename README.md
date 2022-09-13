@@ -1,3 +1,3 @@
-# challenge_7_bootcamp
+# Challenge 7 Bootcamp
 
-web application to analyze ETF's
+A web application to analyze ETF's
